@@ -1,0 +1,1 @@
+In this folder you will see all the exercises that i did during the computer seince dgree 
