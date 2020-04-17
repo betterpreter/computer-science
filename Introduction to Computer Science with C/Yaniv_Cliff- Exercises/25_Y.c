@@ -1,4 +1,4 @@
-//The program must receive 10 numbers and print their amount
+//The program must receive numbers until the user input 0 and print their amount
 #include <stdio.h>
 
 
